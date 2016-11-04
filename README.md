@@ -7,8 +7,8 @@ A collection of resources for learning JavaScript
 <a name="general-js-problems"/>
 ## General JS Problems
 
-- [Sudoku Solver]("#sudoku-solver")
-- [Spell Checker]("#spell-checker")
+- [Sudoku Solver](#sudoku-solver)
+- [Spell Checker](#spell-checker)
 
 <a name="sudoku-solver"/>
 ### Write a Sudoku Solver
@@ -31,8 +31,8 @@ TODO: Add requirements
 <a name="front-end-mini-projects"/>
 ## Front End Mini Projects
 
-- [States Filter]("#states-filter")
-- [Five Star Widget]("#five-star-widget")
+- [States Filter](#states-filter)
+- [Five Star Widget](#five-star-widget)
 
 <a name="states-filter"/>
 ### States Filter
