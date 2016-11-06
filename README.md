@@ -33,6 +33,8 @@ TODO: Add requirements
 
 - [States Filter](#states-filter)
 - [Five Star Widget](#five-star-widget)
+- [Accordion](#accordion)
+- [Timeline](#timeline)
 
 <a name="states-filter"/>
 ### States Filter
@@ -61,3 +63,34 @@ Write HTML, CSS, and JS for a five star widget.
 1. When user hovers over a star, it should display as though she selected it, and return to its original state when mouse leaves.
 2. Allow setting half star increments
 3. Turn into a reusable widget for a front end framework (i.e. An AngularJS directive)
+
+<a name="accordion"/>
+### Accordion
+Create an accordion that allows the user to open and close content.
+
+#### Requirements
+1. When a user clicks on a title, content should open underneath it.
+2. Accordion should be able to handle any number of items.
+
+#### Bonus
+1. Write the accordion as a reusable component.
+2. Make the accordion dynamically take a JavaScript array of objects with content and generate the accordion on the fly.
+3. Should be able to add/remove content from the accordion.
+4. Turn into a reusable widget for a front end framework (i.e. An AngularJS directive)
+5. Allow the accordion to take an option to only should one opened content at a time.
+6. Allow the user to resize the content.
+
+<a name="timeline"/>
+### Timeline
+Create a timeline widget that displays a time period and content.
+
+#### Requirements
+1. Create a horizontal timeline that displays time periods at a fixed distance.
+2. Display some sort of content, a picture or text, at each mark on the timeline.
+
+#### Bonus
+1. When the user hovers over content, display a tooltip with more information.
+2. Write the timeline as a reusable widget.
+3. Allow the timeline to take an image as the marker for each point on a timeline.
+4. Allow the developer to choose different styles for the timeline, i.e. different markers, fixed vs. proportional distance between points, or whatever you find useful or interesting.
+5. Turn into a reusable widget for a front end framework (i.e. An AngularJS directive)
